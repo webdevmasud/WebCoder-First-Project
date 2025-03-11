@@ -85,7 +85,6 @@
     justify-content: center;
     
   }
-  .nav-bar ul{
     
   }
   .nav-bar ul li{
@@ -127,13 +126,6 @@
     margin-left: 20%;
     margin-top: -10px;
   }
-}
-
-@media (max-width : 1280px){
-  .header{
-    
-  }
-}
 
 @media (max-width: 1836px){
   .form{
